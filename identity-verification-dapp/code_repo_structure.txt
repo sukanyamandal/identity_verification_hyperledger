@@ -1,0 +1,18 @@
+identity-verification-dapp/
+|
+├── chaincode/
+|   ├── identity_verification/
+|   |   ├── identity_verification.js
+|   |   └── package.json
+|
+├── client/
+|   ├── identity_verification_client/
+|   |   ├── app.js
+|   |   ├── package.json
+|   |   └── wallet/
+|
+└── fabric-samples/
+    └── test-network/
+        ├── ...
+        └── organizations/
+            └── ...
